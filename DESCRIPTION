@@ -1,11 +1,13 @@
 Package: SEER2R
 Type: Package
 Title: reading and writing SEER*STAT data files
-Version: 1.0
+Version: 1.0.9001
 Date: 2011-09-28
-Author: Jun Luo
+Author: Jun Luo [aut, cre]
 Maintainer: Jun Luo <rpackages@gmail.com>
+Authors@R: person(given = "Jun", family = "Luo", role = c("aut", "cre"), email = "rpackages@gmail.com")
 Description: read and write SEER*STAT data files
+    Compatibility updates by Renova.
 License: GPL (>= 2)
 LazyLoad: yes
 Packaged: 2012-01-22 01:38:21 UTC; junluo
